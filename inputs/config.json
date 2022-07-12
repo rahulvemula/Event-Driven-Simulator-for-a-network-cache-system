@@ -1,0 +1,15 @@
+{
+    "config": {
+        "totalRequests": 30000,
+        "numFiles": 1000,
+        "timeLimit": 600,
+        "requestRate": 10.0,
+        "networkBandwidth": 100,
+        "accessLinkBandwidth": 15,
+        "roundTrip": 0.4,
+        "paretoAlpha": 2,
+        "cacheSize": 1000,
+        "cacheType": "LRU",
+        "paretoSeed": 2
+    }
+}
